@@ -1,1 +1,19 @@
-/* Add CSS Styling */
+.all {
+    background-color: rgb(186, 82, 82); font-family:'Verdana' 'DejaVu Sans' sans-serif;
+}
+
+#two {
+    color:rgb(29, 60, 212); font-size:36px;
+}
+
+.autre-police{
+    font-family: sans-serif;
+}
+
+.taille-moyenne{
+    font-size:24px;
+}
+
+#four{
+    background-color:rgb(77, 166, 63); font-weight:bold;
+}
